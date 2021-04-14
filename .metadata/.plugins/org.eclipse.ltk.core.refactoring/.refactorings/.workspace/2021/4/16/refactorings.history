@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springboot-buildingblocks&apos; to &apos;sb-buildingblocks&apos;" description="Rename resource &apos;springboot-buildingblocks&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/springboot-buildingblocks" name="sb-buildingblocks" stamp="1618338342295" updateReferences="true"/>
+</session>
